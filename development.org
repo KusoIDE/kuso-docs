@@ -1,0 +1,9 @@
+* Requirements
+** Knowledge
+*** Cask 
+*** Elpa
+*** Elisp of course
+** Tools
+*** A web server
+*** Python 
+
